@@ -1,0 +1,70 @@
+Monday,25,October,2021,15:44:00:27948
+VCDS -- Windows Based VAG/VAS Emulator Running on Windows 10 x64
+VCDS Version: 21.9.0.2 (x64)  HEX-V2 CB: 0.4555.4
+Data version: 20210903 DS330.0
+www.Ross-Tech.com
+
+
+VIN: WVGZZZE2ZMP010360   License Plate: 
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+                Address 8C: HV Battery  (0Z1 915 184 E)
+
+15:43:57
+  IDE00021   Engine RPM 0 /min
+  IDE00075   Vehicle speed 0 km/h
+  IDE01021   Current of H-V / hybrid battery -2.750 A
+  IDE01028-MAS01422   Air temperature of H-V / hybrid battery-Intake 18.000 °C
+  IDE01838   Battery temperature 19.000 °C
+  IDE01839   Battery charge level 78.000 %
+  IDE06346   H-V battery voltage 380.500 V
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+                Address 8C: HV Battery  (0Z1 915 184 E)
+
+16:08:02
+  IDE00021   Engine RPM 87 /min
+  IDE00075   Vehicle speed 0 km/h
+  IDE01021   Current of H-V / hybrid battery -4.420 A
+  IDE01028-MAS01422   Air temperature of H-V / hybrid battery-Intake 19.000 °C
+  IDE01838   Battery temperature 21.500 °C
+  IDE01839   Battery charge level 69.200 %
+  IDE06346   H-V battery voltage 372.250 V
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+                Address 8C: HV Battery  (0Z1 915 184 E)
+
+16:08:05
+  IDE00021   Engine RPM 50 /min
+  IDE00075   Vehicle speed 1 km/h
+  IDE01021   Current of H-V / hybrid battery -5.210 A
+  IDE01028-MAS01422   Air temperature of H-V / hybrid battery-Intake 19.000 °C
+  IDE01838   Battery temperature 21.500 °C
+  IDE01839   Battery charge level 69.200 %
+  IDE06346   H-V battery voltage 372.250 V
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+                Address 8C: HV Battery  (0Z1 915 184 E)
+
+16:08:08
+  IDE00021   Engine RPM 97 /min
+  IDE00075   Vehicle speed 1 km/h
+  IDE01021   Current of H-V / hybrid battery -4.660 A
+  IDE01028-MAS01422   Air temperature of H-V / hybrid battery-Intake 19.000 °C
+  IDE01838   Battery temperature 21.500 °C
+  IDE01839   Battery charge level 69.200 %
+  IDE06346   H-V battery voltage 372.250 V
